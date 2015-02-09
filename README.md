@@ -1,8 +1,8 @@
-# Java-PVT-Homework-Repository
+# Java-PVT-Homework-Reposito
 Repository for homeworks from Java PVT.
 
 ## Project structure
-
+df
 You must add new project by next path:
 ```
 <THEME_NUMBER>.<THEME_NAME>/<AUTHOR>/<YOU_PROJECT>
